@@ -76,11 +76,19 @@ h3 {
     background-repeat: repeat;
     background-size: cover;
     height: 15em;
+    color: #ffffff;
 }
 
 .orange {
-    color: orange;
+    color: orangered;
     font-weight: 900;
+    text-decoration: none;
+    
+}
+
+.correctText {
+    margin-left: 20px;
+    padding-top: 75px;
 }
 
 
