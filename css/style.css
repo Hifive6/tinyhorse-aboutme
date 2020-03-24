@@ -93,9 +93,23 @@ h3 {
 
 .bottomSection {
     background-color: black;
-    height: 20em;
+    height: 22em;
     color: #ffffff;
     align-items: center;
     opacity: .9;
+}
+
+#unlineColor {
+    text-decoration: none;
+}
+
+a {
+    color: gray;
+}
+.bottomLinks {
+    margin-top: 100px;
+    color: gray;
+    font-size: 12px;
+    
 }
 
