@@ -82,14 +82,19 @@ h3 {
 .orange {
     color: orangered;
     font-weight: 900;
-    text-decoration: none;
     
 }
+
 
 .correctText {
     margin-left: 20px;
     padding-top: 75px;
 }
 
-
+.bottomSection {
+    background-color: black;
+    height: 30em;
+    color: #ffffff;
+    align-items: center;
+}
 
