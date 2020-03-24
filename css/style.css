@@ -93,8 +93,9 @@ h3 {
 
 .bottomSection {
     background-color: black;
-    height: 30em;
+    height: 20em;
     color: #ffffff;
     align-items: center;
+    opacity: .9;
 }
 
