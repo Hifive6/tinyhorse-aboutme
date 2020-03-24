@@ -59,7 +59,7 @@ h3 {
 
 .reviewSection {
     background-color: #ffffff;
-    height: 30em;
+    height: 20em;
 }
 
 .rowMargin {
@@ -68,6 +68,19 @@ h3 {
 
 .reviewColors {
     border: none;
+}
+
+.connectSection {
+    background-image: url(../images/clouds.jpg);
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+    height: 15em;
+}
+
+.orange {
+    color: orange;
+    font-weight: 900;
 }
 
 
