@@ -1,0 +1,74 @@
+/* .bg-dark {
+    background: transparent;
+}
+
+.bg-dark.scrolled {
+    background: green;
+} */
+* {
+    font-family: 'Playfair Display', serif;
+}
+.nav-link {
+    color: white;
+    text-transform: capitalize;
+}
+
+
+
+.containerImg {
+    background-image: url(https://tinyhorse.com/wp-content/uploads/2019/04/tiny-horse-marketing-agency-header.jpg);
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+    height: 50em;
+    color: white;
+}
+
+.setupText {
+    margin-top: 200px;
+    /* padding-bottom: ; */
+}
+
+.gradientPic {
+    background-image: url(../images/Gradient-pic.jpg);
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+    height: 8em;
+}
+
+img {
+    width: 130px;
+}
+
+.cardSection {
+    background-color: #f4eae9;
+    height: 30em;
+}
+
+h3 {
+    margin-top: 3em;
+    margin-bottom: 1.5em;
+    margin-top: 20px;
+}
+
+.imgCardColor {
+    background-color: #f4eae9;
+    border: none;
+}
+
+.reviewSection {
+    background-color: #ffffff;
+    height: 30em;
+}
+
+.rowMargin {
+    margin-top: 5em
+}
+
+.reviewColors {
+    border: none;
+}
+
+
+
